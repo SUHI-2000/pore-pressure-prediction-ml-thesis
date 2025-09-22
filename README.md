@@ -47,4 +47,4 @@ The four scenarios analyzed were:
 ## License
 Copyright (c) 2024 S. Suheerman, M.N.M. Naweed, S.M.D.K.R. Dilkushan. All Rights Reserved.
 
-This work is protected by copyright. For permissions to use, copy, or distribute this material, please contact the authors. See the [LICENSE.md](LICENSE.md) file for more details.
+This work is protected by copyright. For permissions to use, copy, or distribute this material, please contact the authors. See the [LICENSE.md](LICENSE) file for more details.
